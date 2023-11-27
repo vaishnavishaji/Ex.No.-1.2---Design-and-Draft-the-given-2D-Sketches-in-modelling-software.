@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Screenshot 2023-11-22 160034](https://github.com/vaishnavishaji/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/151444759/6ce352c8-b4cc-4a02-a9a5-75f8ed7248b9)
+ ![Screenshot 2023-11-27 204251](https://github.com/vaishnavishaji/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/151444759/d2c3d262-4a13-4887-a059-db4f40ebbff2)
 
  
  ## RESULT
